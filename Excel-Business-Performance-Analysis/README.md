@@ -2,7 +2,7 @@
 
 ## Overview
 
-Analyzed business data using Microsoft Excel to evaluate customer performance, market performance against targets, profitability, and overall business performance.
+Analyzed business data using Microsoft Excel to evaluate customer performance, market performance against targets, profitability, and overall business performance across monthly and yearly timeframes..
 
 ## Tools Used
 
@@ -15,9 +15,9 @@ Analyzed business data using Microsoft Excel to evaluate customer performance, m
 
 * Customer Performance Analysis
 * Market Performance vs Target
-* Profit & Loss (P&L) Analysis
-* Monthly Performance Analysis
-* Yearly Performance Analysis
+* Profit & Loss (P&L) Monthly Performance Analysis
+* Profit & Loss (P&L) Yearly Performance Analysis
+  
 
 ## Key Areas Covered
 
