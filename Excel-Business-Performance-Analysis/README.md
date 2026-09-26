@@ -29,13 +29,13 @@ Analyzed customer-level sales and performance to identify trends and differences
 
 Compared actual market performance against predefined targets to identify performance gaps.
 
-### Profit & Loss Analysis
+### Profit & Loss Analysis Months Performance
 
-Analyzed revenue, costs, gross margin, and profitability to understand overall financial performance.
+Analyzed performance across months to identify trends and changes over time.
 
-### Monthly & Yearly Performance
+### Profit & Loss Analysis Yearly Performance
 
-Analyzed performance across different months and years to identify trends and changes over time.
+Analyzed performance across different years(FY) to identify trends and changes over time.
 
 ## Project Files
 
