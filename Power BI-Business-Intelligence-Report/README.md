@@ -58,7 +58,7 @@ Provides a high-level overview of important business KPIs and performance indica
 
 ## Project Files
 
-* [Power BI Dashboard](./Power_Bi-Business-Intelligencepbix)
+* [Power BI Dashboard](./Power_BI-Business-Intelligencepbix)
 * [Analysis Report PDF](./PDF)
 
 
