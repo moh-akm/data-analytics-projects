@@ -37,17 +37,13 @@ Provides insights into marketing performance and relevant business metrics.
 
 Analyzes supply chain performance and operational metrics.
 
-### Sales Trend
-
-Provides analysis of sales trends over time to understand changes in business performance.
-
 ### Executive View
 
 Provides a high-level overview of important business KPIs and performance indicators.
 
 ## Key Features
 
-* Interactive Home Page navigation
+* Interactive Home Page navigation                     
 * Multiple business-specific views
 * Interactive filters and slicers
 * KPI-based analysis
